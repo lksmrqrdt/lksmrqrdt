@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrqrdtdotdev)
 
 ## 👨🏻‍💻 About me
-- 🖥 Working as a DevOps Engineer @ampeersenergy
+- 🖥 Working as a DevOps Engineer [@ampeersenergy](https://github.com/ampeersenergy)
 - 🎓 Studying part-time Business informatics as Bachelor of Science at the [IU International University of Applied Sciences](https://www.iu.de/bachelor/wirtschaftsinformatik/) since May 2022.
 
 ## 🧭 My activities
