@@ -1,11 +1,12 @@
 # Hi, I'm Lukas! 👋🏻
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lksmrqrdt/)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lksmrqrdt)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lksmrqrdt)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lksmrqrdt)
 
 ## 👨🏻‍💻 About me
 - 🖥 Working as a DevOps Engineer [@ampeersenergy](https://github.com/ampeersenergy)
-- 🎓 Studying part-time Business informatics as Bachelor of Science at the [IU International University of Applied Sciences](https://www.iu.de/bachelor/wirtschaftsinformatik/) since May 2022.
+- 🎓 Studying part-time Computer Science as Bachelor of Science at the [IU International University of Applied Sciences](https://www.iu.de/en/bachelor/computer-science/) for a dual degree at the [London South Bank University](https://www.lsbu.ac.uk/study/course-finder/bsc-hons-computer-science-2022-23) since May 2022.
 
 ## 🧭 My activities
 - I'm currently ...
