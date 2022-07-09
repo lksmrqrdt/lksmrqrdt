@@ -9,7 +9,7 @@
 
 ## 🧭 My activities
 - I'm currently ...
-  - learning for the [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/de/certification/certified-solutions-architect-associate/) certification
+  - learning for the [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/de-de/learn/certifications/azure-developer/), as I've received a exam voucher, which is valid until December 2022.
   - preparing for the [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/) exam
   - studying for my degree
 - In the near future, I'll ...
@@ -20,9 +20,7 @@
   - build a personal portfolio website
   - get started with technical blogging
 - Some day, I'll ...
-  - study to become a Master of Business Administration (MBA)
-  - learn everything needed to become a Pentester ([OSCP](https://www.offensive-security.com/pwk-oscp/)?)
-  - hold Certifications for Microsoft Azure and Google Cloud Platform
+  - study to become a MSc in Computer Science and a Master of Business Administration (MBA)
 
 ## 🔬 My technology stack
 <div>
@@ -51,8 +49,14 @@
 
 ## 🎖 My Certifications
 ### [Amazon Web Services (AWS)](https://aws.amazon.com/certification/)
-#### [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-[<img src="./images/certifications/aws-ccp.png" width="250" alt="AWS Certified Cloud Practitioner Badge"></img>](https://www.credly.com/earner/earned/badge/141453d8-4124-4b7a-bca2-4b037ae7325a)
+#### [AWS Certified Cloud Practitioner](./certifications/AWS%20Certified%20Cloud%20Practitioner%20Certificate.pdf)
+[<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="250" alt="AWS Certified Cloud Practitioner Badge"></img>](https://www.credly.com/earner/earned/badge/141453d8-4124-4b7a-bca2-4b037ae7325a)
 
 `Validation Number: 550BSCZDPNF11QWN`  
 Validate at: https://aws.amazon.com/verification
+
+### [Microsoft](https://docs.microsoft.com/learn/certifications/)
+#### [Microsoft Certified: Azure Fundamentals](./certifications/Microsoft%20Certified%20Azure%20Fundamentals%20Certificate.pdf)
+[<img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="250" alt="AWS Certified Cloud Practitioner Badge"></img>](https://www.credly.com/earner/earned/badge/141453d8-4124-4b7a-bca2-4b037ae7325a)
+
+`Certification Number: I345-9575`
